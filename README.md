@@ -44,10 +44,6 @@ If Java is not installed, download it from Oracle’s official site.
 
 Step 2: Download the Code
 
-Clone the GitHub repository:
-
-git clone https://github.com/YOUR_USERNAME/MentalHealthChatbot.git
-
 Or manually download the Java file.
 
 Step 3: Compile and Run
